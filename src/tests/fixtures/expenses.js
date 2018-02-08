@@ -5,7 +5,7 @@ export default [{
   description: 'Gum',
   note: "don't swallow it",
   amount: 195,
-  createdAt: moment(0)
+  createdAt: 0
 }, {
   id: '2',
   description: 'Mortgage',
